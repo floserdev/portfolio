@@ -1,0 +1,34 @@
+{
+  "name": "floser.dev",
+  "version": "1.0.0",
+  "description": "Modern developer portfolio built with Next.js 16, Tailwind CSS v4, and Lantern API integration for real-time Discord & Spotify status.",
+  "author": "Floser <contact@floser.dev> (https://floser.dev)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/floserdev/floser.dev"
+  },
+  "private": false,
+  "keywords": ["portfolio", "nextjs", "tailwindcss", "discord", "spotify", "lantern"],
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "eslint"
+  },
+  "dependencies": {
+    "next": "16.2.2",
+    "react": "19.2.4",
+    "react-dom": "19.2.4"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4",
+    "@types/node": "^20",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "eslint": "^9",
+    "eslint-config-next": "16.2.2",
+    "tailwindcss": "^4",
+    "typescript": "^5"
+  }
+}
