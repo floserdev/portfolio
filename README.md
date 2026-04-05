@@ -11,7 +11,7 @@ A sleek, dark-themed developer portfolio with real-time Discord presence and Spo
 [![TypeScript](https://img.shields.io/badge/TypeScript-strict-3178c6?style=flat-square&logo=typescript)](https://typescriptlang.org/)
 [![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)](./LICENSE)
 
-[Live Demo](https://floser.dev) &bull; [Report Bug](https://github.com/floserdev/floser.dev/issues) &bull; [Request Feature](https://github.com/floserdev/floser.dev/issues)
+[Live Demo](https://floser.now.sh) &bull; [Report Bug](https://github.com/floserdev/portfolio/issues) &bull; [Request Feature](https://github.com/floserdev/portfolio/issues)
 
 </div>
 
@@ -75,8 +75,8 @@ src/
 
 ```bash
 # Clone the repository
-git clone https://github.com/floserdev/floser.dev.git
-cd floser.dev
+git clone https://github.com/floserdev/portfolio.git
+cd portfolio
 
 # Install dependencies
 npm install
@@ -127,7 +127,7 @@ All custom colors, animations, and theme variables are defined in **`app/globals
 
 The easiest way to deploy is with [Vercel](https://vercel.com/):
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/floserdev/floser.dev)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/floserdev/portfolio)
 
 Or deploy anywhere that supports Next.js:
 
